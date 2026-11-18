@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tracepunk.realhcok.workers.dev/"><b>APRI TRACE//PUNK ↗</b></a> ·
+  <a href="https://tracepunk.hcok-apps.workers.dev/"><b>APRI TRACE//PUNK ↗</b></a> ·
   <a href="https://github.com/realfulvio/tracepunk/releases/latest"><b>Release</b></a> ·
   <a href="#local-development">Installazione locale</a> ·
   <a href="#acknowledgements">Crediti</a>
@@ -16,7 +16,7 @@
 TRACE//PUNK riunisce ricerca su fonti pubbliche e analisi locale in un catalogo con ricerca e filtri. Apri l’app nel browser, scegli lo strumento e segui le piste: le fonti e i risultati parziali restano espliciti.
 
 <p align="center">
-  <a href="https://tracepunk.realhcok.workers.dev/"><img src="docs/presentation/homepage.png" alt="Screenshot reale della homepage TRACEPUNK con accesso al catalogo strumenti" width="100%"></a>
+  <a href="https://tracepunk.hcok-apps.workers.dev/"><img src="docs/presentation/homepage.png" alt="Screenshot reale della homepage TRACEPUNK con accesso al catalogo strumenti" width="100%"></a>
   <br><sub>Homepage reale dell’app web. Nero, ciano e magenta, con animazioni controllabili.</sub>
 </p>
 

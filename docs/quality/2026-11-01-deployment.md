@@ -1,9 +1,9 @@
 # Production deployment — 2026-11-01
 
 - PR #1 merged as `a3b79a5b6de89476b6d1f9ee5b9f01b75e86b1ad`.
-- Built with `VITE_SITE_URL=https://tracepunk.realhcok.workers.dev`.
+- Built with `VITE_SITE_URL=https://tracepunk.hcok-apps.workers.dev`.
 - Dedicated Worker `tracepunk`, Workers Free confirmed in the account dashboard.
-- Public URL: https://tracepunk.realhcok.workers.dev/
+- Public URL: https://tracepunk.hcok-apps.workers.dev/
 - `ABUSECH_AUTH_KEY` provisioned as `secret_text`; no key in Git or frontend assets.
 - HTTP 200: homepage, crypto, footprint, health, username catalogue, Telegram public profile, URLhaus host and URL lookup, ThreatFox lookup.
 - Chrome reputation lookup completed all three sources: OTX and URLhaus listed example.com; ThreatFox did not list it. These are source observations, not a maliciousness verdict.

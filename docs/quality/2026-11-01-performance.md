@@ -1,6 +1,6 @@
 # Performance comparison — 2026-11-01
 
-Compared the public [FreeOSINT-UI deployment](https://freeosintui.vercel.app/) with [TRACE//PUNK](https://tracepunk.realhcok.workers.dev/), before and after PR #2. This is a small browser lab comparison, not a claim that every tool is faster.
+Compared the public [FreeOSINT-UI deployment](https://freeosintui.vercel.app/) with [TRACE//PUNK](https://tracepunk.hcok-apps.workers.dev/), before and after PR #2. This is a small browser lab comparison, not a claim that every tool is faster.
 
 ## Changes and functional coverage
 
